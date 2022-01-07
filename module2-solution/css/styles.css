@@ -13,8 +13,9 @@ p {
   height 50px;
   padding: 10px;
   font-family: Helvetica;
-  color: black;
+  color: DarkSlateGrey;
   clear: right;
+  background-color: PaleGreen;
 }
 
 header {
@@ -32,6 +33,7 @@ header {
 article {
   border: 2px solid black;
   margin: 10px;
+  background-color: PaleGreen;
 }
 
 
